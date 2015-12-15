@@ -1,0 +1,20 @@
+布局模块分析：
+header
+nav
+search
+公共样式{
+	wrap
+	fl
+	fr
+	clear
+}
+main 
+{
+	section
+	options
+	main_ad
+}
+side{
+	section_side
+}
+结构模块:
